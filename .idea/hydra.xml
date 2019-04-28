@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="HydraSettings">
+    <option name="hydraStorePath" value="G:\hadoop\培训机构\牛牛\08-共享单车项目-8天\共享单车项目-2-Mongodb统计UV-PV\课件与代码\代码-下午\BigdataBig\.hydra\idea" />
+    <option name="noOfCores" value="4" />
+    <option name="projectRoot" value="G:\hadoop\培训机构\牛牛\08-共享单车项目-8天\共享单车项目-2-Mongodb统计UV-PV\课件与代码\代码-下午\BigdataBig" />
+    <option name="sourcePartitioner" value="auto" />
+  </component>
+</project>
